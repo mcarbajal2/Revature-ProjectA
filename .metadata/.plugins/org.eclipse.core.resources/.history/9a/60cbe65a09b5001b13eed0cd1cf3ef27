@@ -1,0 +1,17 @@
+package dev.carbajal.main;
+
+public class InputCheck extends Exception {
+	
+	public InputCheck(int input) {
+		
+		
+		
+	}
+	
+	public static void main (String args) {
+		
+		
+		
+	}
+
+}
